@@ -130,7 +130,7 @@ export default function ContactPage() {
           </button>
         </form>
 
-        <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="text-center">
             <h3 className="font-semibold text-lg mb-2">📧 Email</h3>
             <p className="text-gray-600">yu4185022@gmail.com</p>
