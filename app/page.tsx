@@ -17,6 +17,8 @@ export default function Home() {
             <Link href="/about" className="text-gray-700 hover:text-blue-600">About</Link>
             <Link href="/services" className="text-gray-700 hover:text-blue-600">Services</Link>
             <Link href="/case-studies" className="text-gray-700 hover:text-blue-600">Case Studies</Link>
+            <Link href="/blog" className="text-gray-700 hover:text-blue-600">Blog</Link>
+            <Link href="/contact" className="text-gray-700 hover:text-blue-600">Contact</Link>
           </div>
         </div>
       </nav>
